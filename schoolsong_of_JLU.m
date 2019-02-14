@@ -1,7 +1,5 @@
 
 %% 吉林大学校歌
-
-
 clear;
 clc;
 %语音部分通过unicode2native('字符串')转换unicode。
